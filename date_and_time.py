@@ -11,6 +11,11 @@ day, month, year = dt_today.day, dt_today.month, dt_today.year
 d_time = datetime.time()
 set_time = datetime.time(11, 24, 33)
 
+# sritptime()
+
+# strftime()
+
+# timestamp()
 
 
 print("today is,", dt_now)
